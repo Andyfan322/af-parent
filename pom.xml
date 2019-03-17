@@ -11,6 +11,7 @@
         <module>tx</module>
         <module>thread</module>
         <module>pattern</module>
+        <module>frame</module>
     </modules>
     <packaging>pom</packaging>
 
