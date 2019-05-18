@@ -12,6 +12,7 @@
         <module>thread</module>
         <module>pattern</module>
         <module>frame</module>
+        <module>fault</module>
     </modules>
     <packaging>pom</packaging>
 
