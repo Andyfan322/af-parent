@@ -3,6 +3,7 @@ package com.andyfan.tx.mapper;
 import com.andyfan.tx.models.User;
 import org.apache.ibatis.annotations.Mapper;
 
+
 @Mapper
 public interface UserMapper {
     int deleteByPrimaryKey(Long id);
